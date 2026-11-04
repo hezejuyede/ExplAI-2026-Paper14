@@ -1,7 +1,7 @@
 # ExplAI-2026 Paper 14 — R7 independent public-data reconstruction
 
 ## Public availability
-This scientific reproducibility folder is **public on GitHub** at `hezejuyede/ExplAI-2026-Paper14`. Its historical name ending in `RELEASE_CANDIDATE_NOT_PUBLISHED` came from the original local ZIP and does not reflect the present GitHub visibility. A full Git commit SHA provides an immutable snapshot; a separately named GitHub Release or DOI is not yet asserted.
+This scientific reproducibility folder is **public on GitHub** at `hezejuyede/ExplAI-2026-Paper14`. Its historical name ending in `RELEASE_CANDIDATE_NOT_PUBLISHED` came from the original local ZIP and does not reflect the present GitHub visibility. The repository now has a public GitHub Release [v1.0.0](https://github.com/hezejuyede/ExplAI-2026-Paper14/releases/tag/v1.0.0) published on 4 November 2026. Its tag points to pinned commit `6e41b9a461217a4865b7dc49940c600acd59ea42`, which identifies the exact contents of the released research snapshot. No DOI has been minted.
 
 ## Scientific scope
 This archive documents a new, independently executed reanalysis of UCI Dry Bean (13,611 raw / 13,543 after 68 exact duplicates) and Rice (Cammeo/Osmancik; 3,810 observations). It **does not** claim to match the original October 2026 manuscript environment bit-for-bit: missing historical algorithm settings were chosen and documented for the new runs. Differences from earlier numerical reports remain in `results/discrepancy/`.
