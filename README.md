@@ -28,4 +28,10 @@ For a full rerun use `bash RUN_REAL_UCI_UNIX.sh` (Linux/macOS) or `RUN_REAL_UCI_
 
 This repository records a **new, independent public-data reconstruction** with fully disclosed hyperparameter assumptions. It is **not a claim of bitwise reproduction** of the original submitted experiment. Please review `results/discrepancy/` before comparing metrics.
 
-For a *fixed-version citation*, use the full Git commit permalink (`https://github.com/hezejuyede/ExplAI-2026-Paper14/tree/<full-sha>/Paper14_R7_Full_Public_Data_Code_Results_RELEASE_CANDIDATE_NOT_PUBLISHED`) rather than the moving `main` branch. **No DOI or GitHub Release is claimed here.** The published research files do not include private signed agreements; historic status flags in `provenance/` reflect earlier local package states.
+## Versioned release (published 4 November 2026)
+
+- **GitHub Release:** https://github.com/hezejuyede/ExplAI-2026-Paper14/releases/tag/v1.0.0
+- **Pinned release commit:** `6e41b9a461217a4865b7dc49940c600acd59ea42`
+- **Exact snapshot:** https://github.com/hezejuyede/ExplAI-2026-Paper14/tree/6e41b9a461217a4865b7dc49940c600acd59ea42/Paper14_R7_Full_Public_Data_Code_Results_RELEASE_CANDIDATE_NOT_PUBLISHED
+
+The Release tag points to the above commit, providing a versioned archive. The full commit SHA identifies the exact content even if the moving `main` branch changes. No DOI has been minted. Private author agreements are not part of the public repository; older status flags in `provenance/` describe historical local bundle states.
