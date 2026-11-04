@@ -1,0 +1,16 @@
+{
+  "dataset": "DryBean_RAW",
+  "original_rows": 13611,
+  "used_rows": 13611,
+  "dedup_removed": 0,
+  "classes": [
+    "BARBUNYA",
+    "BOMBAY",
+    "CALI",
+    "DERMASON",
+    "HOROZ",
+    "SEKER",
+    "SIRA"
+  ],
+  "raw_flag": true
+}

@@ -1,0 +1,22 @@
+{
+  "package_version": "ExplAI2026-P14-R5-20261104",
+  "real_data_executed": true,
+  "two_source_csv_sha256_verified": true,
+  "paper_page_count": 12,
+  "paper_a4": true,
+  "fonts_embedded": true,
+  "real_oof_rows": 52059,
+  "real_CCPI_fold_rows": 180,
+  "TV_bound_tested_sample_block_rows": 298183,
+  "TV_bound_violations": 0,
+  "Area_positive_30_of_30": true,
+  "ConvexArea_positive_30_of_30": true,
+  "source_R3_historical_exact_reproduction": false,
+  "new_R5_independent_UCI_configuration_assumptions": true,
+  "official_CEURART_ODT_template_exactly_imported": false,
+  "public_immutable_code_archive_link_created": false,
+  "wet_ink_author_agreement_signed": false,
+  "all_authors_final_approval_recorded": false,
+  "CMT_camera_ready_uploaded": false,
+  "conference_acceptance_unconditional": false
+}

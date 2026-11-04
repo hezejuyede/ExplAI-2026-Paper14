@@ -1,0 +1,1 @@
+Differences are diagnostic. No tolerance establishes historical equivalence without comparing the original source code, libraries, splits, random seeds, bootstrap, and perturbation draws. Do not tune assumptions to force matching numbers.

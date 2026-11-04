@@ -1,0 +1,8 @@
+{
+  "data_provenance": {
+    "fold_csv": "/mnt/data/explai_R4/real_reconstruction/fold_ccpi.csv",
+    "oof_csv": "/mnt/data/explai_R4/real_reconstruction/oof_probabilities.csv"
+  },
+  "null_calibration": "analytic",
+  "empirical_status": "recomputed only if original logs supplied"
+}

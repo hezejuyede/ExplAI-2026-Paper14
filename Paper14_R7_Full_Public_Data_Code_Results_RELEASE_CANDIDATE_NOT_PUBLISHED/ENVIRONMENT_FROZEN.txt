@@ -1,0 +1,10 @@
+Independent public-data reconstruction — environment from executed RUN_MANIFEST.json
+Python 3.13.5
+numpy 2.3.5
+pandas 2.2.3
+scipy 1.17.0
+scikit-learn 1.8.0
+SHAP package version: 0.50.0 (as recorded in extended validation manifest).
+Source dataset access: 2026-11-04 (frozen public UCI CSV files in data/)
+Both datasets are CC BY 4.0. Methodological assumptions: LR L2 C=1, HGB learning_rate=.1, 1000 paired bootstrap replicates.
+Original Oct 16 historical hyperparameters were not fully captured: this is NEW independent reconstruction, not bitwise original reproduction.

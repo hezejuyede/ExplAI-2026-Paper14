@@ -1,0 +1,52 @@
+{
+  "claim_scope": "NEW, INDEPENDENT, ASSUMPTION-BASED UCI RECONSTRUCTION \u2014 NOT ORIGINAL PAPER RUN",
+  "software_versions": {
+    "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "sklearn": "1.8.0"
+  },
+  "cv_seed_assumption": 20261016,
+  "paired_model_seed_assumption": true,
+  "LR_penalty_assumption": "L2",
+  "LR_C_assumption": 1.0,
+  "HGB_rate_assumption": 0.1,
+  "CCPI_draws": 10,
+  "seed_binding": "B0 and B1 model use the identical 20261016+fold random_state in this reconstruction",
+  "CCPI_perturbation_protocol": "train-fold conditional KNN, local interpolation 0.10-0.30, 10 accepted vectors",
+  "interpretive_caveat": "reconstruction of a public-data test, not the original author historical run",
+  "DryBean_source_path": "/mnt/data/explai_R4/data/Dry_Bean_Dataset.csv",
+  "DryBean_source_sha256": "912c87ef3aead267e52e1f95b794f431a367827224edf39f33b4a5193d122350",
+  "Rice_source_path": "/mnt/data/explai_R4/data/Rice_Osmancik_Cammeo_Dataset.csv",
+  "Rice_source_sha256": "9d5e9f271b6ce6e644a33fdc4fd039b6d3f80dbc756aedc4fbe35d631457686a",
+  "dataset_states": [
+    {
+      "dataset": "DryBean",
+      "original_rows": 13611,
+      "used_rows": 13543,
+      "dedup_removed": 68,
+      "classes": [
+        "BARBUNYA",
+        "BOMBAY",
+        "CALI",
+        "DERMASON",
+        "HOROZ",
+        "SEKER",
+        "SIRA"
+      ],
+      "raw_flag": false
+    },
+    {
+      "dataset": "Rice",
+      "original_rows": 3810,
+      "used_rows": 3810,
+      "dedup_removed": 0,
+      "classes": [
+        "Cammeo",
+        "Osmancik"
+      ],
+      "raw_flag": false
+    }
+  ]
+}

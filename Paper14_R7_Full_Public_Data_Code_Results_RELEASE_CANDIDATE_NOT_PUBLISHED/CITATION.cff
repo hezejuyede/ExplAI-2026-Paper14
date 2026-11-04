@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this replication package, cite the ExplAI-2026 Paper 14 manuscript once formally published."
+title: "Do XAI Explanations Survive Information-Equivalent Coordinates? A Cross-Dataset Morphometric Audit — reproducibility package"
+version: "R7-2026-11-04"
+authors:
+  - family-names: Li
+    given-names: Xin
+    orcid: "https://orcid.org/0009-0005-0670-5006"
+  - family-names: Guo
+    given-names: Bojian
+  - family-names: Kartanova
+    given-names: Asel
